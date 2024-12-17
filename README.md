@@ -9,5 +9,5 @@
 - 승리 여부: targetWin 컬럼
 
 ## 2. 데이터 준비 및 전처리
-라인전 이전과 이후 지표를 각각 'combat_at14'와 'combat_af14'로 구분
-
+라인전 이전과 이후 지표를 각각 'combat_at14'와 'combat_af14'로 구분<br>
+![image](https://github.com/user-attachments/assets/18f17186-d839-4d73-b795-16cf4c06c316)
